@@ -4,3 +4,9 @@ Oh, Hello World !
 
 
 I have been edited from gitHub. Pull me!
+
+
+============================
+These lines are for Git GUI
+
+Hello Git GUI
